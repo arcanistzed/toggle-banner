@@ -1,11 +1,12 @@
-import { TemplatePreloader } from "./module/helper/TemplatePreloader";
-
-Hooks.once("init", async () => {
-    console.log("=============================HMR============================")
-});
-
 Hooks.once("ready", async () => {
+    const r = document.querySelector<HTMLElement>(':root');
+    const arr = ['unset', 'fixed']
+    let toggle = 1;
     
+    $("#mybutton").on( "click", () => {
+        r?.style.setProperty('--toggle-banner', arr[toggle]);
+        toggle = toggle === 1 ? 0 : 1
+    })
 });
 
 
@@ -19,14 +20,6 @@ if (process.env.NODE_ENV === "development") {
                     delete _templateCache[template];
                 }
             }
-
-            TemplatePreloader.preloadHandlebarsTemplates().then(() => {
-                for (const application in ui.windows) {
-                    if (Object.prototype.hasOwnProperty.call(ui.windows, application)) {
-                        ui.windows[application].render(true);
-                    }
-                }
-            });
         }
     }
 }

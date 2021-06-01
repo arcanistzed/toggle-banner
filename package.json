@@ -1,7 +1,7 @@
 {
-  "name": "placeholder",
-  "version": "1.0.0",
-  "description": "Placeholder.",
+  "name": "toggle-banner",
+  "version": "0.1.0",
+  "description": "A module for the PF2E character sheet that adds a simple toggle to the red side banner.",
   "private": true,
   "scripts": {
     "build": "webpack",
@@ -9,7 +9,7 @@
     "start": "webpack serve --hot"
   },
   "repository": {},
-  "author": "Blackcloud010",
+  "author": "arcanist",
   "license": "MIT",
   "devDependencies": {
     "@league-of-foundry-developers/foundry-vtt-types": "^0.7.9-5",

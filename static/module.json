@@ -1,45 +1,24 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "toggle-banner",
+  "title": "PF2e Sheet Toggle Banner",
+  "description": "A module for the PF2E character sheet that adds a simple toggle to the red side banner.",
   "version": "This is auto replaced",
   "library": "false",
-  "manifestPlusVersion": "1.0.0",
+  "manifestPlusVersion": "0.1.0",
   "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.8.6",
   "authors": [
     {
-      "name": "Blackcloud",
-      "url": "https://github.com/Blackcloud010",
-      "discord": "Blackcloud010#5426"
-    },
-    {
-      "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
-      "discord": "discordID#0001"
+      "name": "arcanist",
+      "url": "https://arcanistzed.github.io/",
+      "discord": "arcanist#4317"
     }
-  ],
-  "dependencies": [
-
-  ],
-  "conflicts": [
-
   ],
   "esmodules": [
     "module.js"
   ],
-  "scripts": [
-
-  ],
   "styles": [
     "/styles/module.css"
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
   ],
   "url": "This is auto replaced",
   "manifest": "This is auto replaced",
@@ -47,7 +26,7 @@
   "media": [
     {
       "type": "icon",
-      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+      "url": ""
     }
   ]
 }
