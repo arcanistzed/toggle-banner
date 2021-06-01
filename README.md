@@ -7,7 +7,7 @@ A module for the PF2E character sheet that adds a simple toggle to the red side 
 ![Toggle](https://user-images.githubusercontent.com/82790112/120369672-9b11d780-c2e1-11eb-81d9-7f7ca2c890de.gif)
 
 # Installation
-In the setup screen, use the URL https://raw.githubusercontent.com/arcanistzed/toggle-banner/main/static/module.json to install the module.
+In the setup screen, use the URL https://github.com/arcanistzed/toggle-banner/releases/latest/download/module.json to install the module.
 
 # Usage
 Click on the "Pathfinder" logo to toggle the banner
