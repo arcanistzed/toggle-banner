@@ -1,3 +1,11 @@
-aside > img {
-    position: var(--toggle-banner)
+.crb-style aside {
+  position: var(--toggle-banner);
+}
+
+section > form > aside > .logo {
+    transition: all .2s ease-in-out;
+}
+
+section > form > aside > .logo:hover {
+    transform: scale(0.9);
 }

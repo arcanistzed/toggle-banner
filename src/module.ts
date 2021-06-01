@@ -1,9 +1,10 @@
 Hooks.once("ready", async () => {
+    console.log("ready")
     const r = document.querySelector<HTMLElement>(':root');
-    const arr = ['unset', 'fixed']
+    const arr = ['fixed', 'unset']
     let toggle = 1;
     
-    $("#mybutton").on( "click", () => {
+    document.querySelector("section > form > aside > .logo")?.addEventListener("click", () => {
         r?.style.setProperty('--toggle-banner', arr[toggle]);
         toggle = toggle === 1 ? 0 : 1
     })
