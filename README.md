@@ -1,4 +1,4 @@
-# Toggle Banner
+# PF2e Sheet Toggle Banner
 
 ![Version](https://img.shields.io/github/v/tag/arcanistzed/toggle-banner&label=Version) ![Latest Release Download Count](https://img.shields.io/github/downloads/arcanistzed/toggle-banner/latest/module.zip&label=Downloads) ![Foundry Core Compatible Version](https://img.shields.io/badge/dynamic/json.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Farcanistzed%2Ftoggle-banner%2Fmain%2Fmodule.json&label=Compatible%20Foundry%20Core%20Version&query=$.compatibleCoreVersion)
 
