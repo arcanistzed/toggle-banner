@@ -1,7 +1,6 @@
-Hooks.once("ready", async () => {
-    console.log("ready")
+Hooks.on("renderActorSheetPF2e", async () => {
     const r = document.querySelector<HTMLElement>(':root');
-    const arr = ['fixed', 'unset']
+    const arr = ['unset', 'fixed']
     let toggle = 1;
     
     document.querySelector("section > form > aside > .logo")?.addEventListener("click", () => {
