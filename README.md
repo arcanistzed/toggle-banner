@@ -1,4 +1,4 @@
-# Toggle Banner
+# PF2e Sheet Toggle Banner
 
 ![](https://img.shields.io/github/v/tag/arcanistzed/toggle-banner)
 
