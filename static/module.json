@@ -6,7 +6,7 @@
   "library": "false",
   "manifestPlusVersion": "0.1.0",
   "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
   "author": "arcanist",
   "authors": [
     {
@@ -28,8 +28,9 @@
   "download": "This is auto replaced",
   "media": [
     {
-      "type": "icon",
-      "url": ""
+      "type": "screenshot",
+      "url": "https://user-images.githubusercontent.com/82790112/120369672-9b11d780-c2e1-11eb-81d9-7f7ca2c890de.gif",
+      "caption": "See it in action toggling the PF2e character sheet's banner."
     }
   ]
 }
