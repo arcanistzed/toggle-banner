@@ -4,7 +4,7 @@
   "description": "A module for the PF2E character sheet that adds a simple toggle to the red side banner.",
   "version": "This is auto replaced",
   "library": "false",
-  "manifestPlusVersion": "0.1.0",
+  "manifestPlusVersion": "1.2.0",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.8.8",
   "author": "arcanist",
