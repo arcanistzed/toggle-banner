@@ -6,17 +6,22 @@ A module for the Foundry VTT PF2E character sheet that adds a simple toggle to t
 
 ![Toggle](https://user-images.githubusercontent.com/82790112/120369672-9b11d780-c2e1-11eb-81d9-7f7ca2c890de.gif)
 
-# Installation
-In the setup screen, use the URL https://github.com/arcanistzed/toggle-banner/releases/latest/download/module.json to install the module.
+## Installation
 
-# Usage
+In the setup screen, use the URL `https://github.com/arcanistzed/toggle-banner/releases/latest/download/module.json` to install the module.
+
+## Usage
+
 Click on the "Pathfinder" logo to toggle the banner
 
-# License
+## License
+
 This package is under an [MIT license](LICENSE)
 
-# Bugs
+## Bugs
+
 You can submit bugs via [Github Issues](https://github.com/arcanistzed/toggle-banner/issues/new/choose).
 
-# Contact me
-Come hang out on my Discord server: https://discord.gg/AAkZWWqVav where my username is [@arcanist#4317](https://discord.com/users/455117777745870860) or [click here to send me an email](mailto:arcanistzed@gmail.com?subject=NAME%20module%20for%20Foundry%20VTT).
+## Contact me
+
+Come hang out on [my Discord server](https://discord.gg/AAkZWWqVav) where my username is [@arcanist#4317](https://discord.com/users/455117777745870860) or [click here to send me an email](mailto:arcanistzed@gmail.com?subject=NAME%20module%20for%20Foundry%20VTT).
