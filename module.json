@@ -1,39 +1,46 @@
 {
-  "name": "toggle-banner",
-  "title": "PF2e Sheet Toggle Banner",
-  "description": "A module for the PF2E character sheet that adds a simple toggle to the red side banner.",
-  "version": "This is auto replaced",
-  "library": "false",
-  "system": [
-    "pf2e"
-  ],
-  "manifestPlusVersion": "1.2.0",
-  "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.8.9",
-  "author": "arcanist",
-  "authors": [
-    {
-      "name": "arcanist",
-      "url": "https://arcanistzed.github.io/",
-      "email": "arcanistzed@gmail.com",
-      "discord": "arcanist#4317",
-      "reddit": "u/arcanistzed"
-    }
-  ],
-  "esmodules": [
-    "/scripts/module.js"
-  ],
-  "styles": [
-    "/styles/module.css"
-  ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced",
-  "media": [
-    {
-      "type": "screenshot",
-      "url": "https://user-images.githubusercontent.com/82790112/120369672-9b11d780-c2e1-11eb-81d9-7f7ca2c890de.gif",
-      "caption": "See it in action toggling the PF2e character sheet's banner."
-    }
-  ]
+	"name": "toggle-banner",
+	"title": "PF2e Sheet Toggle Banner",
+	"description": "A module for the PF2E character sheet that adds a simple toggle to the red side banner.",
+	"authors": [
+		{
+			"name": "arcanist",
+			"url": "https://arcanistzed.github.io/",
+			"email": "arcanistzed@gmail.com",
+			"discord": "arcanist#4317",
+			"reddit": "u/arcanistzed"
+		}
+	],
+	"author": "arcanist",
+	"url": "This is auto replaced",
+	"license": "https://github.com/arcanistzed/ID/blob/main/LICENSE",
+	"readme": "https://github.com/arcanistzed/ID/blob/main/README.md",
+	"bugs": "https://github.com/arcanistzed/ID/issues/new/choose",
+	"changelog": "https://github.com/arcanistzed/ID/blob/main/CHANGELOG.md",
+	"flags": {
+		"allowBugReporter": true
+	},
+	"version": "This is auto replaced",
+	"minimumCoreVersion": "0.7.9",
+	"compatibleCoreVersion": "0.8.9",
+	"esmodules": [
+		"scripts/module.js"
+	],
+	"styles": [
+		"styles/module.css"
+	],
+	"system": [
+		"pf2e"
+	],
+	"manifest": "This is auto replaced",
+	"download": "This is auto replaced",
+	"library": false,
+	"manifestPlusVersion": "1.2.0",
+	"media": [
+		{
+			"type": "screenshot",
+			"url": "https://user-images.githubusercontent.com/82790112/120369672-9b11d780-c2e1-11eb-81d9-7f7ca2c890de.gif",
+			"caption": "See it in action toggling the PF2e character sheet's banner."
+		}
+	]
 }

@@ -2,10 +2,10 @@
   position: var(--toggle-banner);
 }
 
-section > form > aside > .logo {
+.crb-style .logo {
     transition: all .2s ease-in-out;
 }
 
-section > form > aside > .logo:hover {
+.crb-style .logo:hover {
     transform: scale(0.9);
 }
